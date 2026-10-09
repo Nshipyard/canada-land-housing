@@ -25,11 +25,11 @@ Raw inputs (StatCan CSV zip, TTC GTFS zip) are excluded from git; `scripts/build
 
 Next.js 16, full English/French, Open Nshipyard family theme (paper, ink, Canadian red #d80621, Newsreader + Inter).
 
-- `GET /api/v1/decomposition?geo=Toronto,%20Ontario` — price split series
-- `GET /api/v1/stations?q=wellesley` — station supply search
-- `GET /api/v1/coverage` — the testability matrix
-- `GET /api/openapi.json` — OpenAPI 3.1 spec
-- `POST /mcp` — MCP server (streamable HTTP): `decomposition_lookup`, `station_supply`, `coverage`
+- `GET /api/v1/decomposition?geo=Toronto,%20Ontario`: price split series
+- `GET /api/v1/stations?q=wellesley`: station supply search
+- `GET /api/v1/coverage`: the testability matrix
+- `GET /api/openapi.json`: OpenAPI 3.1 spec
+- `POST /mcp`: MCP server (streamable HTTP): `decomposition_lookup`, `station_supply`, `coverage`
 
 ## Rebuild
 
@@ -40,4 +40,4 @@ npm install && npm run build && npm start
 
 ## Author
 
-Built by [Richardson Dackam](https://github.com/Nshipyard) — [X](https://x.com/richardsondx), [GitHub](https://github.com/Nshipyard). MIT licensed.
+Built by [Richardson Dackam](https://github.com/Nshipyard), [X](https://x.com/richardsondx), [GitHub](https://github.com/Nshipyard). MIT licensed.
