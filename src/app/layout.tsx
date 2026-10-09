@@ -7,10 +7,39 @@ import "@fontsource/inter/600.css";
 import "./globals.css";
 import { LangProvider } from "@/i18n";
 
+const SITE_URL = "https://landvalue.canada.nshipyard.com";
+const TITLE = "Land vs Housing: does transit make land gold and housing cheap?";
+const DESCRIPTION =
+  "Statistics Canada's house-only vs land-only New Housing Price Index, Toronto 1981-2026: structure +352.2%, land +190.0%. Housing within 800 m of all 67 TTC subway stations: 141,098 homes built, 573,486 in the pipeline.";
+
 export const metadata: Metadata = {
-  title: "Land vs Housing: does transit make land gold and housing cheap?",
-  description:
-    "Testing the transit land-value thesis with open data: Statistics Canada's house-only vs land-only price split for Toronto (1981-2026) and housing units within 800m of all 67 TTC subway stations. Open data, MIT licensed.",
+  metadataBase: new URL(SITE_URL),
+  title: TITLE,
+  description: DESCRIPTION,
+  alternates: {
+    canonical: `${SITE_URL}/`,
+  },
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    url: `${SITE_URL}/`,
+    siteName: "Land vs Housing",
+    type: "website",
+    images: [
+      {
+        url: `${SITE_URL}/og-image.png`,
+        width: 1200,
+        height: 630,
+        alt: "Land vs Housing. Does transit make land gold and housing cheap? Toronto, 1981-2026: structure +352.2%, land +190.0%.",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: TITLE,
+    description: DESCRIPTION,
+    images: [`${SITE_URL}/og-image.png`],
+  },
   icons: {
     icon: [
       { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
