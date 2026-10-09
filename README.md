@@ -38,6 +38,12 @@ python3 scripts/build_data.py   # data/ (needs the raw zips in data/raw/)
 npm install && npm run build && npm start
 ```
 
+## Screenshots
+
+![Desktop](docs/screenshots/desktop.png)
+![Mobile](docs/screenshots/mobile.png)
+![French](docs/screenshots/desktop-fr.png)
+
 ## Author
 
-Built by [Richardson Dackam](https://github.com/Nshipyard), [X](https://x.com/richardsondx), [GitHub](https://github.com/Nshipyard). MIT licensed.
+Built by **Richardson Dackam** ([X](https://x.com/richardsondx), [GitHub](https://github.com/richardsondx)). MIT licensed.
