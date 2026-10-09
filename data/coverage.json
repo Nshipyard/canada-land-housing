@@ -1,0 +1,28 @@
+{
+ "tests": [
+  {
+   "test": "Land vs structure value split over time, metro level",
+   "possible": true,
+   "basis": "StatCan NHPI house-only vs land-only, 27 CMAs incl. Toronto, monthly 1981-2026",
+   "limit": "Land-only series carries StatCan E (use with caution) flag throughout"
+  },
+  {
+   "test": "Land vs structure value split around individual stations",
+   "possible": false,
+   "basis": null,
+   "limit": "MPAC parcel assessments sit behind the AboutMyProperty login or FOI requests; Teranet transaction data is proprietary. No open parcel-level value file exists for Toronto."
+  },
+  {
+   "test": "Housing units built near stations (supply response)",
+   "possible": true,
+   "basis": "Development pipeline snapshot (AIC) joined to 67 TTC stations at 800m radius",
+   "limit": "Snapshot, not longitudinal: no per-project completion dates, so before/after opening cannot be dated from this file"
+  },
+  {
+   "test": "Per-unit housing cost near stations over time",
+   "possible": false,
+   "basis": null,
+   "limit": "No open series of sale prices or project values at station scale; NHPI is CMA-level only"
+  }
+ ]
+}

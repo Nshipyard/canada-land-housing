@@ -1,0 +1,471 @@
+[
+ {
+  "name": "Bloor-Yonge",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.670049,
+  "lon": -79.385389
+ },
+ {
+  "name": "College",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.660149,
+  "lon": -79.382688
+ },
+ {
+  "name": "Davisville",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.697799,
+  "lon": -79.397014
+ },
+ {
+  "name": "Dundas",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.65619,
+  "lon": -79.38119
+ },
+ {
+  "name": "Eglinton",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.704582,
+  "lon": -79.39846
+ },
+ {
+  "name": "King",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.648449,
+  "lon": -79.377688
+ },
+ {
+  "name": "Queen",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.652149,
+  "lon": -79.379188
+ },
+ {
+  "name": "Rosedale",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.67684,
+  "lon": -79.388875
+ },
+ {
+  "name": "St. Clair",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.687713,
+  "lon": -79.392394
+ },
+ {
+  "name": "Summerhill",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.682049,
+  "lon": -79.390789
+ },
+ {
+  "name": "Union",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.645652,
+  "lon": -79.37921
+ },
+ {
+  "name": "Wellesley",
+  "line": 1,
+  "opened": 1954,
+  "lat": 43.665358,
+  "lon": -79.383941
+ },
+ {
+  "name": "Museum",
+  "line": 1,
+  "opened": 1963,
+  "lat": 43.667249,
+  "lon": -79.393389
+ },
+ {
+  "name": "Osgoode",
+  "line": 1,
+  "opened": 1963,
+  "lat": 43.651749,
+  "lon": -79.386888
+ },
+ {
+  "name": "Queen's Park",
+  "line": 1,
+  "opened": 1963,
+  "lat": 43.660549,
+  "lon": -79.390689
+ },
+ {
+  "name": "St. George",
+  "line": 1,
+  "opened": 1963,
+  "lat": 43.668655,
+  "lon": -79.398053
+ },
+ {
+  "name": "St. Patrick",
+  "line": 1,
+  "opened": 1963,
+  "lat": 43.655249,
+  "lon": -79.388388
+ },
+ {
+  "name": "Lawrence",
+  "line": 1,
+  "opened": 1973,
+  "lat": 43.725556,
+  "lon": -79.402351
+ },
+ {
+  "name": "York Mills",
+  "line": 1,
+  "opened": 1973,
+  "lat": 43.745172,
+  "lon": -79.40593
+ },
+ {
+  "name": "Finch",
+  "line": 1,
+  "opened": 1974,
+  "lat": 43.780942,
+  "lon": -79.414829
+ },
+ {
+  "name": "Sheppard-Yonge",
+  "line": 1,
+  "opened": 1974,
+  "lat": 43.761885,
+  "lon": -79.412389
+ },
+ {
+  "name": "Dupont",
+  "line": 1,
+  "opened": 1978,
+  "lat": 43.674949,
+  "lon": -79.40709
+ },
+ {
+  "name": "Eglinton West",
+  "line": 1,
+  "opened": 1978,
+  "lat": 43.704582,
+  "lon": -79.39846
+ },
+ {
+  "name": "Glencairn",
+  "line": 1,
+  "opened": 1978,
+  "lat": 43.709467,
+  "lon": -79.441148
+ },
+ {
+  "name": "Lawrence West",
+  "line": 1,
+  "opened": 1978,
+  "lat": 43.716218,
+  "lon": -79.444374
+ },
+ {
+  "name": "St. Clair West",
+  "line": 1,
+  "opened": 1978,
+  "lat": 43.684231,
+  "lon": -79.415227
+ },
+ {
+  "name": "Wilson",
+  "line": 1,
+  "opened": 1978,
+  "lat": 43.734475,
+  "lon": -79.45092
+ },
+ {
+  "name": "Yorkdale",
+  "line": 1,
+  "opened": 1978,
+  "lat": 43.725248,
+  "lon": -79.447692
+ },
+ {
+  "name": "Sheppard West",
+  "line": 1,
+  "opened": 1996,
+  "lat": 43.749571,
+  "lon": -79.462186
+ },
+ {
+  "name": "Downsview Park",
+  "line": 1,
+  "opened": 2017,
+  "lat": 43.753311,
+  "lon": -79.478693
+ },
+ {
+  "name": "Finch West",
+  "line": 1,
+  "opened": 2017,
+  "lat": 43.764855,
+  "lon": -79.491118
+ },
+ {
+  "name": "Highway 407",
+  "line": 1,
+  "opened": 2017,
+  "lat": 43.783359,
+  "lon": -79.523454
+ },
+ {
+  "name": "Pioneer Village",
+  "line": 1,
+  "opened": 2017,
+  "lat": 43.77675,
+  "lon": -79.509372
+ },
+ {
+  "name": "Vaughan Metropolitan Centre",
+  "line": 1,
+  "opened": 2017,
+  "lat": 43.794021,
+  "lon": -79.527906
+ },
+ {
+  "name": "York University",
+  "line": 1,
+  "opened": 2017,
+  "lat": 43.774097,
+  "lon": -79.499888
+ },
+ {
+  "name": "Bathurst",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.666061,
+  "lon": -79.411065
+ },
+ {
+  "name": "Bay",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.670149,
+  "lon": -79.390089
+ },
+ {
+  "name": "Broadview",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.677011,
+  "lon": -79.358044
+ },
+ {
+  "name": "Castle Frank",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.673452,
+  "lon": -79.369136
+ },
+ {
+  "name": "Chester",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.678241,
+  "lon": -79.352502
+ },
+ {
+  "name": "Christie",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.664124,
+  "lon": -79.418567
+ },
+ {
+  "name": "Coxwell",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.684079,
+  "lon": -79.322919
+ },
+ {
+  "name": "Donlands",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.680846,
+  "lon": -79.33779
+ },
+ {
+  "name": "Dufferin",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.660849,
+  "lon": -79.43389
+ },
+ {
+  "name": "Dundas West",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.656862,
+  "lon": -79.453415
+ },
+ {
+  "name": "Greenwood",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.682553,
+  "lon": -79.330354
+ },
+ {
+  "name": "High Park",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.65397,
+  "lon": -79.466354
+ },
+ {
+  "name": "Jane",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.649911,
+  "lon": -79.484072
+ },
+ {
+  "name": "Keele",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.65565,
+  "lon": -79.459571
+ },
+ {
+  "name": "Old Mill",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.650156,
+  "lon": -79.495072
+ },
+ {
+  "name": "Ossington",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.662271,
+  "lon": -79.426546
+ },
+ {
+  "name": "Pape",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.679891,
+  "lon": -79.345139
+ },
+ {
+  "name": "Royal York",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.648338,
+  "lon": -79.511178
+ },
+ {
+  "name": "Runnymede",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.651732,
+  "lon": -79.475954
+ },
+ {
+  "name": "Sherbourne",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.672103,
+  "lon": -79.376162
+ },
+ {
+  "name": "Spadina",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.667271,
+  "lon": -79.403784
+ },
+ {
+  "name": "Woodbine",
+  "line": 2,
+  "opened": 1966,
+  "lat": 43.68644,
+  "lon": -79.312471
+ },
+ {
+  "name": "Islington",
+  "line": 2,
+  "opened": 1968,
+  "lat": 43.645548,
+  "lon": -79.523293
+ },
+ {
+  "name": "Main Street",
+  "line": 2,
+  "opened": 1968,
+  "lat": 43.689037,
+  "lon": -79.301926
+ },
+ {
+  "name": "Victoria Park",
+  "line": 2,
+  "opened": 1968,
+  "lat": 43.693982,
+  "lon": -79.288461
+ },
+ {
+  "name": "Warden",
+  "line": 2,
+  "opened": 1968,
+  "lat": 43.712074,
+  "lon": -79.281556
+ },
+ {
+  "name": "Kennedy",
+  "line": 2,
+  "opened": 1980,
+  "lat": 43.732502,
+  "lon": -79.263315
+ },
+ {
+  "name": "Kipling",
+  "line": 2,
+  "opened": 1980,
+  "lat": 43.637354,
+  "lon": -79.535939
+ },
+ {
+  "name": "Bayview",
+  "line": 4,
+  "opened": 2002,
+  "lat": 43.766872,
+  "lon": -79.386703
+ },
+ {
+  "name": "Bessarion",
+  "line": 4,
+  "opened": 2002,
+  "lat": 43.769202,
+  "lon": -79.376312
+ },
+ {
+  "name": "Don Mills",
+  "line": 4,
+  "opened": 2002,
+  "lat": 43.776123,
+  "lon": -79.346242
+ },
+ {
+  "name": "Leslie",
+  "line": 4,
+  "opened": 2002,
+  "lat": 43.77041,
+  "lon": -79.367644
+ }
+]
